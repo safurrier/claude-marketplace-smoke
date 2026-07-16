@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "safurrier-marketplace-smoke",
+  "owner": { "name": "Example Maintainer" },
+  "description": "Synthetic marketplace for testing nested remote plugin installation",
+  "plugins": [
+    {
+      "name": "nested-smoke",
+      "source": "./plugins/examples/nested-smoke",
+      "description": "Synthetic nested plugin used only for marketplace installation testing"
+    }
+  ]
+}
