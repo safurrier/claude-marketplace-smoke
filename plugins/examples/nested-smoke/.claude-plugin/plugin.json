@@ -2,6 +2,8 @@
   "name": "nested-smoke",
   "displayName": "Nested Marketplace Smoke",
   "description": "Synthetic nested plugin used only for marketplace installation testing",
-  "version": "0.1.0",
-  "author": { "name": "Example Maintainer" }
+  "version": "0.2.0",
+  "author": {
+    "name": "Example Maintainer"
+  }
 }
